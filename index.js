@@ -1,6 +1,7 @@
 // Code Author: Nachiket Trivedi
 // Note: The comments are written before the start of each method/class delineating the functionality of the method/class.
-
+// Github Repository Link: https://github.com/nachiket-trivedi/nachiket-cloudflare-fullstack
+// Application: https://nachiket-cloudflare-fullstack.nachiket.workers.dev/
 
 addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
