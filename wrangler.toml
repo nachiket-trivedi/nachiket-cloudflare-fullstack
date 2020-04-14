@@ -1,0 +1,6 @@
+name = "nachiket-cloudflare-fullstack"
+type = "javascript"
+account_id = "c249eed0cccf91009d88fe73e6d8cbf3"
+workers_dev = true
+route = ""
+zone_id = ""
